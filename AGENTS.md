@@ -24,3 +24,4 @@ public void Awake()
                 $"{nameof(Example)}: GameManager is required but not assigned.");
 }
 ```
+When pointing out issues in code, always include line numbers (e.g., src/main.py:173).
